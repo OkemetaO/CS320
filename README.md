@@ -8,3 +8,4 @@ Interpreting users' needs as simple as it sounds, could be easily messed up, so 
 
 
 How do I approach designing software?
+While approaching softweare design, I would say to follow this step, first is to ge=ather and undersyant the requirements using analysis, after which the onjective goal is being designed, come up with a plans to achieve each goals such as team needed, what is the budget like, time frame and many more as needed, then get to work by implementing the designed plan, alongside testing to make sure everything is still going smooth as expected. 
